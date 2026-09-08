@@ -11,12 +11,3 @@
 <p align="center">
   <img src="./iM-Engr_GraphicDesign_GitHub.jpg" width="100%">
 </p>
-
-**Key Iterations:**
-   <br>
-
-   **Product demo — iM-Engr (09.01.26)**
-
-   <p align="center">
-     <img src="./personal-website_demo.gif" width="100%">
-   </p>
