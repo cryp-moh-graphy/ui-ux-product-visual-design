@@ -8,6 +8,11 @@
 
    **iM-Engr** combines high-end editorial typography with modern, minimal product design. The experience also features a deterministic, client-side conversational retrieval system built without AI or external services.
 
+<p align="center">
+  <img src="./iM-Engr_GraphicDesign_GitHub.jpg" width="100%">
+</p>
+
+**Key Iterations:**
    <br>
 
    **Product demo — iM-Engr (09.01.26)**
